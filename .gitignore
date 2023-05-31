@@ -1,0 +1,6 @@
+# pnpm
+node_modules
+
+# vitepress
+docs/.vitepress/cache
+docs/.vitepress/dist

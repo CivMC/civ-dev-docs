@@ -3,6 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'CivMC Developer Docs',
   description: 'Yeehaw',
+
+  base: '/civ-dev-docs/',
   
   lastUpdated: true,
   themeConfig: {
